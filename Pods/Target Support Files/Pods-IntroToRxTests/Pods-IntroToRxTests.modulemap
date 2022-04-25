@@ -1,0 +1,6 @@
+framework module Pods_IntroToRxTests {
+  umbrella header "Pods-IntroToRxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
